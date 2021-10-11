@@ -1,0 +1,7 @@
+score,value,model
+accuracy,0.87,Random_Forest
+missclassification,0.13,Random_Forest
+specificity,0.9658463083877449,Random_Forest
+recall_sensitivity,0.4950884086444008,Random_Forest
+precision,0.7875,Random_Forest
+f1,0.6079613992762364,Random_Forest

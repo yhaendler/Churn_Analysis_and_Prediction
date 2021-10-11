@@ -1,0 +1,7 @@
+score,value,model
+accuracy,0.8704,Gradient_Boosting_Classifier
+missclassification,0.12960000000000005,Gradient_Boosting_Classifier
+specificity,0.9673530889000502,Gradient_Boosting_Classifier
+recall_sensitivity,0.4911591355599214,Gradient_Boosting_Classifier
+precision,0.7936507936507936,Gradient_Boosting_Classifier
+f1,0.6067961165048543,Gradient_Boosting_Classifier

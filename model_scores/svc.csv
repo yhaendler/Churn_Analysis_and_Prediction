@@ -1,0 +1,7 @@
+score,value,model
+accuracy,0.8588,Support_Vector_Classifier
+missclassification,0.1412,Support_Vector_Classifier
+specificity,0.9668508287292817,Support_Vector_Classifier
+recall_sensitivity,0.4361493123772102,Support_Vector_Classifier
+precision,0.7708333333333334,Support_Vector_Classifier
+f1,0.5570890840652446,Support_Vector_Classifier
