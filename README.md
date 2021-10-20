@@ -1,5 +1,5 @@
 ## Churn Analysis and Prediction
 
-### Analysis of churn data of bank customers & Churn Prediction with Machine Learning
+### Churning bank customers - EDA & prediction using Machine Learning
 
 Work in progress...
